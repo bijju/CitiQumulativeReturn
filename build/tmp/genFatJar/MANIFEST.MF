@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: CumRetCalculator
+Implementation-Version: 0.1
+Main-Class: com.citi.uiapps.Canary
+

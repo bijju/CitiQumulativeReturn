@@ -1,0 +1,13 @@
+# Run Configuration file for Calculate Cumulative Return Calculator 
+title = "Canary - Cumulative Return Calculator"
+
+[owner]
+name = "Praneeth Chandra Bhattaram"
+email = "chandra.bhattaram@gmail.com"
+
+[datasets]
+    [datasets.source.set1]
+        infile          = "infile.csv"
+        outfile         = "oFile.csv"
+        queryfile       = "calcDatesFile.csv"
+        delimtier       = ","
